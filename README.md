@@ -1,4 +1,4 @@
-# Human-Resources-Dataset
+# Human Resources Dataset
 University group project
 
 The project is based on a Kaggle competition (https://www.kaggle.com/rhuebner/human-resources-data-set) where it has been taken into account a dataset in .csv (HRDataset_v13.csv) which revolves around a fictitious company, called Dental Magic, for which is given data such as names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, whether they are active or terminated, position title, pay rate, manager name, and performance score.
